@@ -5,6 +5,7 @@
 }
 body {
   font-family: "Raleway", sans-serif;
+  background-image: url(/assets/img/dave-hoefler-bl4WNYGe2KE-unsplash.jpg);
 }
 
 h1 {
@@ -47,6 +48,10 @@ p {
 
 .main {
   width: 100%;
+  max-width: 1100px;
+  margin: auto;
+  box-shadow: 0 0 8px black;
+  background-color: rgb(255, 251, 251);
 }
 
 section {
