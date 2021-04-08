@@ -57,6 +57,19 @@ section:nth-child(2) h2 {
   letter-spacing: 0.1rem;
 }
 
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: green;
+  margin-right: 10px;
+}
+
+.apprentissage {
+  display: flex;
+  align-items: center;
+}
+
 @media screen and (max-width: 500px) {
   h1 {
   }
