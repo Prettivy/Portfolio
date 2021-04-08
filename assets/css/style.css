@@ -68,6 +68,7 @@ section:nth-child(2) h2 {
 .apprentissage {
   display: flex;
   align-items: center;
+  margin: 1rem 0;
 }
 
 @media screen and (max-width: 500px) {
